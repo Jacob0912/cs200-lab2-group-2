@@ -1,2 +1,6 @@
-# cs200-lab2-group-2
-Team 2's project
+## Lab 2 Practice
+
+Team: Group 2
+Members: Collin, Justin, Grayson, Jacob, Sarah
+
+This repository is practice for using Git, GitHub, and VS Code.
